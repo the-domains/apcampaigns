@@ -2,6 +2,7 @@ name: APCampaigns
 favicon: null
 layout_spectrum: 0.18262246530503035
 typography_spectrum: 0.3764060321263969
+title: AP Campaigns
 cta:
   domain: null
   bucket: null
